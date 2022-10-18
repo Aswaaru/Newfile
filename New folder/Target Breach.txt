@@ -1,0 +1,11 @@
+What made this all the more unnerving for Target is that it had devoted quite a lot of time and resources to its information security
+Citadel Trojan Virus: it was a variant of a well-known malware package called ZeuS and is readily detectable by any major enterprise anti-virus software. 
+s. Through the Trojan horse, the hackers obtained Fazio’s log-in credentials for Target’s system.
+
+With access to Target, the hackers unleashed a different malware program, one they bought on the black market for just a few thousand dollars. Experts such as McAfee director Jim Walker characterized the malware as “absolutely unsophisticated and uninteresting.”
+
+
+PREVENTATIVE MEASURES
+According to recent surveys, employees are the weakest link in the data security chain. In spite of training, employees open suspicious emails every day that have the potential to download viruses. One mistake that employers make is thinking that one training class about cybersecurity is enough. If you’re serious about safeguarding your important data, schedule regular classes each quarter or even monthly.
+
+Believe it or not, employees have been known to leave those classes, return to their desks and open suspicious emails without even thinking twice. Marketing studies show that most people need to hear the same message at least seven times before it begins to change their behavior.
